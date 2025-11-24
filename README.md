@@ -8,7 +8,7 @@ It demonstrates advanced SQL concepts including:
 - Joins (INNER, LEFT)
 - Subqueries and nested queries
 - Aggregate functions
-- Many-to-many relationships (PROJECT_TECH)
+- Relationships
 
 ## Features
 - Retrieve employee details along with department info
